@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+requests
+flask
+kafka-python
+streamlit
+kaggle
